@@ -8,4 +8,5 @@ dependencies = [
     "dotenv>=0.9.9",
     "openrouter>=0.1.1",
     "pyyaml>=6.0.3",
+    "requests>=2.32.5",
 ]
