@@ -5,7 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "datasets>=4.4.2",
     "dotenv>=0.9.9",
+    "huggingface-hub>=1.2.4",
     "inspect-ai>=0.3.159",
     "openai>=2.14.0",
     "openrouter>=0.1.1",
